@@ -1,0 +1,5 @@
+62-10 grid
+trainlen 200
+geen learning rate specified
+factor1 = 4.0
+factor2 = 2.0
